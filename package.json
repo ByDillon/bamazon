@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yearmlg/Bamazon.git"
+    "url": "git+https://github.com/ByDillon/Bamazon.git"
   },
   "keywords": [
     "cli"
@@ -16,9 +16,9 @@
   "author": "dillon tidwell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yearmlg/Bamazon/issues"
+    "url": "https://github.com/ByDillon/Bamazon/issues"
   },
-  "homepage": "https://github.com/yearmlg/Bamazon#readme",
+  "homepage": "https://github.com/ByDillon/Bamazon#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^6.2.2",
